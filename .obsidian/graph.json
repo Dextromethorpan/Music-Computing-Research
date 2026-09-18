@@ -1,0 +1,121 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#pain-points-color/blue",
+      "color": {
+        "a": 1,
+        "rgb": 3900150
+      }
+    },
+    {
+      "query": "tag:#pain-points-color/red",
+      "color": {
+        "a": 1,
+        "rgb": 15680580
+      }
+    },
+    {
+      "query": "tag:#pain-points-color/green",
+      "color": {
+        "a": 1,
+        "rgb": 2278750
+      }
+    },
+    {
+      "query": "tag:#pain-points-color/violet",
+      "color": {
+        "a": 1,
+        "rgb": 9133302
+      }
+    },
+    {
+      "query": "tag:#pain-points-color/magenta",
+      "color": {
+        "a": 1,
+        "rgb": 14267119
+      }
+    },
+    {
+      "query": "tag:#pain-points-color/yellow",
+      "color": {
+        "a": 1,
+        "rgb": 15384584
+      }
+    },
+    {
+      "query": "tag:#pain-points-color/orange",
+      "color": {
+        "a": 1,
+        "rgb": 15105570
+      }
+    },
+    {
+      "query": "tag:#pain-points-color/brown",
+      "color": {
+        "a": 1,
+        "rgb": 9127187
+      }
+    },
+    {
+      "query": "tag:#pain-points-color/purple",
+      "color": {
+        "a": 1,
+        "rgb": 10040012
+      }
+    },
+    {
+      "query": "tag:#pain-points-color/grey",
+      "color": {
+        "a": 1,
+        "rgb": 8947848
+      }
+    },
+    {
+      "query": "tag:#pain-points-color/lime",
+      "color": {
+        "a": 1,
+        "rgb": 8702998
+      }
+    },
+    {
+      "query": "tag:#pain-points-color/pink",
+      "color": {
+        "a": 1,
+        "rgb": 15286397
+      }
+    },
+    {
+      "query": "tag:#pain-points-color/teal",
+      "color": {
+        "a": 1,
+        "rgb": 1357990
+      }
+    },
+    {
+      "query": "tag:#pain-points-color/cyan",
+      "color": {
+        "a": 1,
+        "rgb": 440020
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.1391232405524774,
+  "close": true
+}
